@@ -69,7 +69,7 @@ const expensive = 3;
 const restaurantData = [
   {
     id: 1,
-    name: 'ByProgrammers Burger',
+    name: 'Aniket Burger',
     rating: 4.8,
     categories: [5, 7],
     priceRating: affordable,
@@ -112,7 +112,7 @@ const restaurantData = [
   },
   {
     id: 2,
-    name: 'ByProgrammers Pizza',
+    name: 'Aniket Pizza',
     rating: 4.8,
     categories: [2, 4, 6],
     priceRating: expensive,
@@ -164,7 +164,7 @@ const restaurantData = [
   },
   {
     id: 3,
-    name: 'ByProgrammers Hotdogs',
+    name: 'Aniket Hotdogs',
     rating: 4.8,
     categories: [3],
     priceRating: expensive,
@@ -191,7 +191,7 @@ const restaurantData = [
   },
   {
     id: 4,
-    name: 'ByProgrammers Sushi',
+    name: 'Aniket Sushi',
     rating: 4.8,
     categories: [8],
     priceRating: expensive,
@@ -218,7 +218,7 @@ const restaurantData = [
   },
   {
     id: 5,
-    name: 'ByProgrammers Cuisine',
+    name: 'Aniket Cuisine',
     rating: 4.8,
     categories: [1, 2],
     priceRating: affordable,
@@ -269,7 +269,7 @@ const restaurantData = [
   },
   {
     id: 6,
-    name: 'ByProgrammers Dessets',
+    name: 'Aniket Dessets',
     rating: 4.9,
     categories: [9, 10],
     priceRating: affordable,
